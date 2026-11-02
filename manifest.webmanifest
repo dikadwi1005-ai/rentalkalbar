@@ -1,0 +1,17 @@
+{
+  "id": "/",
+  "name": "Rental Kalbar",
+  "short_name": "Rental Kalbar",
+  "description": "Demo pencarian rental mobil di Kalimantan Barat",
+  "lang": "id",
+  "start_url": "/#beranda",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f5f8fd",
+  "theme_color": "#0759e6",
+  "icons": [
+    {"src":"assets/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},
+    {"src":"assets/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any"},
+    {"src":"assets/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}
+  ]
+}
